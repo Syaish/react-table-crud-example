@@ -22,7 +22,7 @@ function App() {
           </li>
           <li className="nav-item">
             <Link to={"/add"} className="nav-link">
-              AddEmployees
+              Employees
             </Link>
           </li>
         </div>
